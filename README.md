@@ -6,4 +6,4 @@ In the end, they work with a big data pipeline and handle a large amount of data
 
 During this course, they will learn different Python libraries for data science such as Pandas, Mathplotlib, Numpy, Geopandas, Request, Pyspark and TensorFlow.
 
-Tentative Course ScheduleGGE5405-6505final.pdf
+
